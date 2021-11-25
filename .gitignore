@@ -1,0 +1,6 @@
+node_modules/
+yiffspotjs/
+dist/
+
+db.sqlite
+.env

@@ -1,0 +1,24 @@
+{
+	"webhook": {
+		"id": "",
+		"token": ""
+	},
+	"guildID": "",
+	"channelID": "",
+	"defaultPartnerPerference": {
+		"specie": ["any"],
+		"role": ["Switch"],
+		"gender": ["any"]
+	},
+	"defaultPerference": {
+		kinks: ["any"],
+        specie: "Other",
+        role: "Switch",
+        gender: "Other"
+	},
+	"discordUsernamPrefix": "Discord User ",
+	"partnerTextPrefix": "Partner: ",
+	"prefix": "",
+	"autosearch": false,
+	"discordPrefixEnabled": true
+}
