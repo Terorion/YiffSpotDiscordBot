@@ -1253,6 +1253,17 @@ yallist@^4.0.0:
   resolved "https://registry.yarnpkg.com/yallist/-/yallist-4.0.0.tgz#9bb92790d9c0effec63be73519e11a35019a3a72"
   integrity sha512-3wdGidZyq5PB084XLES5TpOSRA3wjXAlIWMhum2kRcv/41Sn2emQ0dycQW4uZXLejwKvg6EsvbdlVL+FYEct7A==
 
+yiffspot.js@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/yiffspot.js/-/yiffspot.js-1.0.3.tgz#624f91fe28d828e6e7bfc36c679243b6a81e324a"
+  integrity sha512-KXNdXXsIJz68OYRm4JSHX/v+tnm4TR6eO1zJUkzGIpPbI0g2inGnCm6T3MYH0zK8WXGQ+C+3xAniM3bUgvOSVg==
+  dependencies:
+    get-urls "^10.0.1"
+    ws "^8.2.3"
+  optionalDependencies:
+    bufferutil "^4.0.5"
+    utf-8-validate "^5.0.7"
+
 zlib-sync@^0.1.7:
   version "0.1.7"
   resolved "https://registry.yarnpkg.com/zlib-sync/-/zlib-sync-0.1.7.tgz#b0b24f9428e434943e306ad586428ef8baf3ed60"
