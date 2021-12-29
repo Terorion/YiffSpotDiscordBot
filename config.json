@@ -1,7 +1,7 @@
 {
 	"webhook": {
-		"id": "",
-		"token": ""
+		"id": "C:",
+		"token": "12341"
 	},
 	"guildID": "",
 	"channelID": "",
@@ -19,6 +19,6 @@
 	"discordUsernamPrefix": "Discord User ",
 	"partnerTextPrefix": "Partner: ",
 	"prefix": "!",
-	"autosearch": false,
+	"autosearch": true,
 	"discordPrefixEnabled": true
 }
